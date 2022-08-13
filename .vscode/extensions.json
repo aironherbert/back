@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "jakebecker.elixir-ls",
+    "mhutchie.git-graph",
+    "phoenixframework.phoenix",
+    "msaraiva.surface",
+    "bradlc.vscode-tailwindcss"
+  ]
+}

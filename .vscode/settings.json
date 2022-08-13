@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "[elixir]": {
+        "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    },
+    "tailwindCSS.includeLanguages": {
+        "surface": "html"
+    },
+    "elixirLS.mixEnv": "dev",
+    "elixirLS.trace.server": "messages",
+    "emmet.includeLanguages": {
+        "surface": "html"
+    }
+}
